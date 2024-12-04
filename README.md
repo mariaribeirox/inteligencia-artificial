@@ -1,2 +1,2 @@
-# inteligencia-artificial
-site criado durante aulas de mat 2
+Perguntas e respostas com IA
+Colégio estadual Arthur de Azevedo SJI-PR
